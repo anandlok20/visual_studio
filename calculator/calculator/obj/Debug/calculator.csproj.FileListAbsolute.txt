@@ -1,0 +1,6 @@
+C:\Users\Anand Lok\Documents\cdac\VS\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Anand Lok\Documents\cdac\VS\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Anand Lok\Documents\cdac\VS\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Anand Lok\Documents\cdac\VS\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Anand Lok\Documents\cdac\VS\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Anand Lok\Documents\cdac\VS\calculator\calculator\obj\Debug\calculator.pdb

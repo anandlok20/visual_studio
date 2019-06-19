@@ -1,0 +1,6 @@
+C:\Users\Anand Lok\Documents\cdac\VS\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe.config
+C:\Users\Anand Lok\Documents\cdac\VS\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe
+C:\Users\Anand Lok\Documents\cdac\VS\BankingSystem\BankingSystem\bin\Debug\BankingSystem.pdb
+C:\Users\Anand Lok\Documents\cdac\VS\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anand Lok\Documents\cdac\VS\BankingSystem\BankingSystem\obj\Debug\BankingSystem.exe
+C:\Users\Anand Lok\Documents\cdac\VS\BankingSystem\BankingSystem\obj\Debug\BankingSystem.pdb
