@@ -5,3 +5,5 @@
 ####     c# basic concepts
 ## * BankingSystem
 ####    class, object, loops and cases
+## * Console operations
+####    string, array operations
