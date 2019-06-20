@@ -1,0 +1,6 @@
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleOperations\ConsoleOperations\bin\Debug\ConsoleOperations.exe.config
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleOperations\ConsoleOperations\bin\Debug\ConsoleOperations.exe
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleOperations\ConsoleOperations\bin\Debug\ConsoleOperations.pdb
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleOperations\ConsoleOperations\obj\Debug\ConsoleOperations.csprojResolveAssemblyReference.cache
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleOperations\ConsoleOperations\obj\Debug\ConsoleOperations.exe
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleOperations\ConsoleOperations\obj\Debug\ConsoleOperations.pdb
