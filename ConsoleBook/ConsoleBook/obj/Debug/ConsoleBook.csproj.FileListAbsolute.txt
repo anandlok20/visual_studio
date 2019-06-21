@@ -1,0 +1,6 @@
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleBook\ConsoleBook\bin\Debug\ConsoleBook.exe.config
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleBook\ConsoleBook\bin\Debug\ConsoleBook.exe
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleBook\ConsoleBook\bin\Debug\ConsoleBook.pdb
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleBook\ConsoleBook\obj\Debug\ConsoleBook.csprojResolveAssemblyReference.cache
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleBook\ConsoleBook\obj\Debug\ConsoleBook.exe
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleBook\ConsoleBook\obj\Debug\ConsoleBook.pdb
