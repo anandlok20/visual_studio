@@ -1,0 +1,6 @@
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleStudent\ConsoleStudent\bin\Debug\ConsoleStudent.exe.config
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleStudent\ConsoleStudent\bin\Debug\ConsoleStudent.exe
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleStudent\ConsoleStudent\bin\Debug\ConsoleStudent.pdb
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleStudent\ConsoleStudent\obj\Debug\ConsoleStudent.csprojResolveAssemblyReference.cache
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleStudent\ConsoleStudent\obj\Debug\ConsoleStudent.exe
+C:\Users\Anand Lok\Documents\cdac\VS\ConsoleStudent\ConsoleStudent\obj\Debug\ConsoleStudent.pdb
